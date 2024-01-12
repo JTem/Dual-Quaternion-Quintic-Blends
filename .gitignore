@@ -1,15 +1,3 @@
 
-DualQuaternionQuinticBlends/.ipynb_checkpoints/__init__-checkpoint.py
-DualQuaternionQuinticBlends/.ipynb_checkpoints/Arc-checkpoint.py
-DualQuaternionQuinticBlends/.ipynb_checkpoints/ArcGenerator-checkpoint.py
-DualQuaternionQuinticBlends/.ipynb_checkpoints/DQQBTrajectoryGenerator-checkpoint.py
-DualQuaternionQuinticBlends/.ipynb_checkpoints/Line-checkpoint.py
-DualQuaternionQuinticBlends/.ipynb_checkpoints/LineGenerator-checkpoint.py
-DualQuaternionQuinticBlends/__pycache__/__init__.cpython-311.pyc
-DualQuaternionQuinticBlends/__pycache__/Arc.cpython-311.pyc
-DualQuaternionQuinticBlends/__pycache__/ArcGenerator.cpython-311.pyc
-DualQuaternionQuinticBlends/__pycache__/DQQBTrajectoryGenerator.cpython-311.pyc
-DualQuaternionQuinticBlends/__pycache__/DQQBTrajectoryGenerator2.cpython-311.pyc
-DualQuaternionQuinticBlends/__pycache__/Line.cpython-311.pyc
-DualQuaternionQuinticBlends/__pycache__/LineGenerator.cpython-311.pyc
-.ipynb_checkpoints/interpolator_example-checkpoint.ipynb
+**/.ipynb_checkpoints/
+**/__pycache__/
