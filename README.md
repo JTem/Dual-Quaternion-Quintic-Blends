@@ -5,19 +5,54 @@
 ## Overview
 This repository contains the implementation of the Dual Quaternion Quintic Blends (DQQB) algorithm, as detailed in our paper: "Dual Quaternion Quintic Blends: $\mathcal{C}^2$-Continuous, Time-Optimized Interpolation of Unit Dual Quaternions". The DQQB algorithm is a novel method for interpolating unit dual quaternions, offering $\mathcal{C}^2$-continuous trajectories, ideal for robotic applications requiring high precision and smooth motion.
 
+
+
+
 ## Features
 - Implementation of the DQQB algorithm for trajectory planning.
 - Examples demonstrating the use of the algorithm in various scenarios.
 - Tools for evaluating and visualizing the trajectories.
 - Comprehensive documentation for ease of use and customization.
 
+## Examples
+Two examples are given, 
+the first one shows the execution of the trajectory depicted in the paper:
+https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/0634697d-cf88-4e82-aab2-77a6f550d95e
+
+The second video gives a small demonstration of a welding trajectory, which was executed by a LARA8 from Neura Robotics GmbH:
+https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/abb6abf1-5e84-45da-ae78-9988de76c7c1
+
 ## Installation
 Instructions to set up the environment and install necessary dependencies.
 
+The quaternion and dual quaternion maths can be found in the package [neura_dual_quaternions](https://github.com/JTem/neura_dual_quaternions)
 
-https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/0634697d-cf88-4e82-aab2-77a6f550d95e
+```bash
+pip install neura-dual-quaternions
+```
+
+For interactive plots, the packages jupyter-matplotlib and jupyter-widgets are needed.
+
+```bash
+pip install ipympl
+```
+
+```bash
+pip install ipywidgets
+```
+
+Other site-packages:
+
+```bash
+pip install numpy
+```
+
+```bash
+pip install matplotlib
+```
 
 
 
-https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/abb6abf1-5e84-45da-ae78-9988de76c7c1
+
+
 
