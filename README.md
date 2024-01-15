@@ -67,7 +67,7 @@ For questions, please contact Jens Temminghoff at jens.temminghoff@neura-robotic
 
 - Jens Temminghoff
 - Marcel Huptych
-- Jan Wiartaller
+- Jan Wiartalla
 - Markus Schmitz
 - Burkhard Corves
 - Mathias Hüsing
