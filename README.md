@@ -25,6 +25,10 @@ https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/2ffc94f6-
 
 The second video gives a small demonstration of a welding trajectory, which was executed by a LARA8 from Neura Robotics GmbH:
 
+
+https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/8c4ee954-03ad-400b-9add-ad02c1ef73a8
+
+
 ## Installation
 Instructions to set up the environment and install necessary dependencies.
 
