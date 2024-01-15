@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTem/Dual-Quaternion-Quintic-Blends/main?labpath=interpolator_example.ipynb)
 
 ## Overview
-This repository contains the implementation of the Dual Quaternion Quintic Blends (DQQB) algorithm, as detailed in our paper: "Dual Quaternion Quintic Blends: $\mathcal{C}^2$-Continuous, Time-Optimized Interpolation of Unit Dual Quaternions". The DQQB algorithm is a novel method for interpolating unit dual quaternions, offering $\mathcal{C}^2$-continuous trajectories, ideal for robotic applications requiring high precision and smooth motion.
+This repository contains the implementation of the Dual Quaternion Quintic Blends (DQQB) algorithm, as detailed in our paper: "Dual Quaternion Quintic Blends: $\mathcal{C}^2$-Continuous, Time-Optimized Interpolation of Unit Dual Quaternions" (currently under review). The DQQB algorithm is a novel method for interpolating unit dual quaternions, offering $\mathcal{C}^2$-continuous trajectories, ideal for robotic applications requiring high precision and smooth motion.
 
 
 
