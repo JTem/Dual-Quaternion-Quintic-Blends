@@ -19,7 +19,9 @@ Two examples are given,
 the first one shows the execution of the trajectory depicted in the paper:
 
 
-https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/2ffc94f6-3057-4cf5-b16d-d00d01b11b46
+
+https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/1d025084-b5db-4938-9f43-2a7f08b84fc0
+
 
 
 
