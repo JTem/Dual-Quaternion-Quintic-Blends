@@ -17,3 +17,7 @@ Instructions to set up the environment and install necessary dependencies.
 
 https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/0634697d-cf88-4e82-aab2-77a6f550d95e
 
+
+
+https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/abb6abf1-5e84-45da-ae78-9988de76c7c1
+
