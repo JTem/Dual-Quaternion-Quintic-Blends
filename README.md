@@ -59,8 +59,18 @@ pip install numpy
 pip install matplotlib
 ```
 
+## Contact
 
+For questions, please contact Jens Temminghoff at jens.temminghoff@neura-robotics.com.
 
+## Authors
+
+- Jens Temminghoff
+- Marcel Huptych
+- Jan Wiartaller
+- Markus Schmitz
+- Burkhard Corves
+- Mathias Hüsing
 
 
 
