@@ -19,12 +19,13 @@ Two examples are given,
 the first one shows the execution of the trajectory depicted in the paper:
 
 
- <video width="1440" height="810" controls>
-        <source src="./Resources/example_1.mov" type="video/mov">
-        Your browser does not support the video tag.
- </video>
+<div style="text-align: center;">
+    <video width="1440" height="810" controls>
+        <source src="./Resources/example_1.mov" type="video/mp4">
+    
+    </video>
+</div>
 
-[Link to Video](Resources/example_1.mov)
 
 
 
