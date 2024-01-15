@@ -13,3 +13,7 @@ This repository contains the implementation of the Dual Quaternion Quintic Blend
 
 ## Installation
 Instructions to set up the environment and install necessary dependencies.
+
+
+https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/0634697d-cf88-4e82-aab2-77a6f550d95e
+
