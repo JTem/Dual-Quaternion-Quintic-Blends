@@ -19,7 +19,7 @@ Two examples are given,
 the first one shows the execution of the trajectory depicted in the paper:
 
 
-https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/11308e2d-dc16-4aff-ac65-16661bdc6029
+[Link to Video](Resources/example_1.mov)
 
 
 
@@ -27,7 +27,6 @@ The second video gives a small demonstration of a welding trajectory, which was 
 
 
 
-https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/8ba3664d-2634-4222-bc05-aca478b30a6b
 
 
 ## Installation
