@@ -17,10 +17,18 @@ This repository contains the implementation of the Dual Quaternion Quintic Blend
 ## Examples
 Two examples are given, 
 the first one shows the execution of the trajectory depicted in the paper:
-https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/0634697d-cf88-4e82-aab2-77a6f550d95e
+
+
+https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/11308e2d-dc16-4aff-ac65-16661bdc6029
+
+
 
 The second video gives a small demonstration of a welding trajectory, which was executed by a LARA8 from Neura Robotics GmbH:
-https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/abb6abf1-5e84-45da-ae78-9988de76c7c1
+
+
+
+https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/8ba3664d-2634-4222-bc05-aca478b30a6b
+
 
 ## Installation
 Instructions to set up the environment and install necessary dependencies.
