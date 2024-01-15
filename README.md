@@ -19,17 +19,11 @@ Two examples are given,
 the first one shows the execution of the trajectory depicted in the paper:
 
 
-<p align="center">
-	<img src="./Resources/example_1.mov">
-</p>
+https://github.com/JTem/Dual-Quaternion-Quintic-Blends/assets/34837129/2ffc94f6-3057-4cf5-b16d-d00d01b11b46
 
 
 
 The second video gives a small demonstration of a welding trajectory, which was executed by a LARA8 from Neura Robotics GmbH:
-
-
-
-
 
 ## Installation
 Instructions to set up the environment and install necessary dependencies.
