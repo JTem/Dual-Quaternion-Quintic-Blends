@@ -19,13 +19,9 @@ Two examples are given,
 the first one shows the execution of the trajectory depicted in the paper:
 
 
-<div style="text-align: center;">
-    <video width="1440" height="810" controls>
-        <source src="./Resources/example_1.mov" type="video/mp4">
-    
-    </video>
-</div>
-
+<p align="center">
+	<img src="./Resources/example_1.mov">
+</p>
 
 
 
